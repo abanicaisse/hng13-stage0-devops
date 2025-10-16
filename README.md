@@ -13,4 +13,4 @@ This project demonstrates a basic NGINX web server deployment as part of the HNG
 
 - **Server IP/Domain:** [http://98.91.172.181/](http://98.91.172.181/)
 - **Platform:** AWS EC2
-- **Deployment Date:** October 16, 2025
+- **Deployment Date:** 16/10/2025
