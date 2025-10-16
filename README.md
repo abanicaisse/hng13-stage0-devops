@@ -1,6 +1,6 @@
 # HNG13 Stage 0 - DevOps Task
 
-## Intern Information
+## Profile Information
 
 - **Name:** Aba Nicaisse
 - **Slack Username:** @Aba Nicasse
@@ -11,6 +11,6 @@ This project demonstrates a basic NGINX web server deployment as part of the HNG
 
 ## Deployment Details
 
-- **Server IP/Domain:** http://[YOUR_IP_HERE]
-- **Platform:** [AWS/GCP - will update after deployment]
-- **Deployment Date:** [Date]
+- **Server IP/Domain:** [http://98.91.172.181/](http://98.91.172.181/)
+- **Platform:** AWS EC2
+- **Deployment Date:** October 16, 2025
